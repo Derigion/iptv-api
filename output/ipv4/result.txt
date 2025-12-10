@@ -1,9 +1,14 @@
 🕘️更新时间,#genre#
-2025-12-10 06:23:32,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+2025-12-10 18:30:26,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
+CCTV-1,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV-8,http://sh.lnott.top:880/dx08.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
@@ -11,7 +16,11 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 💰央视付费频道,#genre#
 文化精品,http://171.125.90.120:6001/rtp/226.0.2.219:9664
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
+怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704
+女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
+风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
+世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
@@ -20,3 +29,4 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8?key=txiptv
